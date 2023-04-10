@@ -1,0 +1,7 @@
+requests
+pydantic
+python-dotenv
+pytest
+pyyaml
+prometheus-client
+

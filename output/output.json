@@ -1,0 +1,84 @@
+{
+    "Cards": [
+        {
+            "Name": "Sharpedo",
+            "Type": [
+                "Water"
+            ],
+            "HP": 110,
+            "Rarity": "Uncommon"
+        },
+        {
+            "Name": "Dewgong",
+            "Type": [
+                "Water"
+            ],
+            "HP": 120,
+            "Rarity": "Uncommon"
+        },
+        {
+            "Name": "Kingler",
+            "Type": [
+                "Water"
+            ],
+            "HP": 100,
+            "Rarity": "Uncommon"
+        },
+        {
+            "Name": "Glalie",
+            "Type": [
+                "Water"
+            ],
+            "HP": 100,
+            "Rarity": "Uncommon"
+        },
+        {
+            "Name": "Pelipper",
+            "Type": [
+                "Water"
+            ],
+            "HP": 100,
+            "Rarity": "Uncommon"
+        },
+        {
+            "Name": "Vaporeon",
+            "Type": [
+                "Water"
+            ],
+            "HP": 110,
+            "Rarity": "Uncommon"
+        },
+        {
+            "Name": "Abomasnow",
+            "Type": [
+                "Water"
+            ],
+            "HP": 120,
+            "Rarity": "Uncommon"
+        },
+        {
+            "Name": "Wailmer",
+            "Type": [
+                "Water"
+            ],
+            "HP": 100,
+            "Rarity": "Uncommon"
+        },
+        {
+            "Name": "Lapras",
+            "Type": [
+                "Water"
+            ],
+            "HP": 120,
+            "Rarity": "Uncommon"
+        },
+        {
+            "Name": "Tentacruel",
+            "Type": [
+                "Water"
+            ],
+            "HP": 110,
+            "Rarity": "Uncommon"
+        }
+    ]
+}
